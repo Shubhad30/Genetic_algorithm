@@ -24,6 +24,7 @@ public class Class {
 	public void setRoom(Room room)
 	{
 		this.room=room;
+		//hi
 	}
 	public int getId() {return id;}
 	public Department getDept() {return dept;}
